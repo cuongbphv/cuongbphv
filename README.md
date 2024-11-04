@@ -1,5 +1,5 @@
 # 💫 About Me:
-More than 5 years of experience which developing and implementing software in Finance and Banking sector.<br>- Planning, managing teamwork, solving problems<br>- Spring Boot, Spring Security, RESTful API<br>- CI/CD/Microservices with Docker, Kubernetes on AWS, GCP<br>- Angular, React, Vue for front-end Framework<br>- Oracle, PostgreSQL, MongoDB, Redis for Database<br>- API Gateway for microservices architecture<br>- Networking, Linux, VMWare
+More than 5 years of experience which developing and implementing software in Finance and Banking sector
 
 
 ## 🌐 Socials:
