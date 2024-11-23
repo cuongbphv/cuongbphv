@@ -1,5 +1,27 @@
-# 💫 About Me:
-More than 5 years of experience which developing and implementing software in Finance and Banking sector
+# 💫 My Journey
+## 1. Development and Coding Foundations
+My DevOps career began with a strong focus on software development. I worked extensively on:
+
+Backend Development: Using Spring Boot for building secure and performant APIs.
+Frontend Integration: Collaborating on Angular projects to create seamless user experiences.
+Database Management: Optimizing transactions and reporting using Oracle and PostgreSQL.
+## 2. Building Deployment Pipelines
+To ensure efficient and reliable deployments, I shifted my focus toward CI/CD pipelines:
+
+Automation: Implemented pipelines with Jenkins and integrated quality checks using SonarQube.
+Containerization: Used Docker to standardize environments and streamline deployment processes.
+Infrastructure as Code (IaC): Leveraged Terraform and Ansible to automate infrastructure setup.
+## 3. Transition to Operations
+In this phase, I gained deep expertise in running applications in production environments:
+
+On-Premise Operations: Managed private datacenters with tools like Nginx, Rancher, and Prometheus/Grafana for monitoring.
+Cloud Adoption: Migrated services to AWS and Google Cloud, employing EKS and GKE for orchestrating Kubernetes clusters.
+## 4. Scaling Financial Systems
+My recent focus has been on designing systems that can handle the complexities of modern banking:
+
+Microservices Architecture: Decomposed monolithic applications into microservices for scalability.
+Event-Driven Systems: Integrated Kafka for real-time data processing and transaction handling.
+Centralized Logging: Deployed Fluentd and Loki to ensure effective log management.
 
 
 ## 🌐 Socials:
